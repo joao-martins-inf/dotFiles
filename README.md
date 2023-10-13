@@ -117,7 +117,7 @@ Load these new plugins by running:
 source ~/.zshrc
 ```
 
-Install TMUX with Homebrew
+## Install TMUX with Homebrew
 
 ```bash
 brew install tmux
