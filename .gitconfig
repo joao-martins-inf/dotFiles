@@ -1,0 +1,9 @@
+[user]
+	email = joao.martins@thecodeventure.com
+	name = Joao Martins
+	signingKey = null
+[gpg]
+	program = null
+[commit]
+[tag]
+	forceSignAnnotated = null
