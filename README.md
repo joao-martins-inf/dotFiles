@@ -133,7 +133,8 @@ Run the following:
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-
+```<leader><S-i>``` to install tmux plugins
+```checkhealth```is your best friend in nvim ;) 
 ## You're Done!
 
 With that, you're finished and should have a much better terminal experience!
